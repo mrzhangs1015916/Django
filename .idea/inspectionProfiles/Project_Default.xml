@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="project.urls.myapp" />
+          <option value="views" />
         </list>
       </option>
     </inspection_tool>
